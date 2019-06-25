@@ -2,6 +2,7 @@
 操作系统：ubuntu 16.04  
 python版本: 3.6.8  
 mysql版本: 5.6  
+前端代码库：https://github.com/bxxfighting/soul-web
 
 ```
 # 1. 创建数据库soul
