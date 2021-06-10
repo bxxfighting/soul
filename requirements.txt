@@ -4,7 +4,7 @@ backcall==0.1.0
 billiard==3.6.0.0
 celery==4.3.0
 decorator==4.4.0
-Django==1.11.20
+Django==2.2.24
 django-cors-headers==3.0.2
 gevent==1.4.0
 greenlet==0.4.15
