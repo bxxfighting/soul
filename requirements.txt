@@ -2,7 +2,7 @@ amqp==2.5.0
 appnope==0.1.0
 backcall==0.1.0
 billiard==3.6.0.0
-celery==4.3.0
+celery==5.2.2
 decorator==4.4.0
 Django==1.11.20
 django-cors-headers==3.0.2
